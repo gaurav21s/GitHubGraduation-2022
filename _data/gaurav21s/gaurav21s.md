@@ -1,0 +1,6 @@
+---
+name: GAURAV SHRIVASTAV
+institution: GOVERNMENT ENGINEERING COLLEGE PATAN 
+quote: FOCUS ON THE PRESENT WORK
+github_user: gaurav21s
+---
